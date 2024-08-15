@@ -3624,3 +3624,5 @@ void mainWindow::SetConfigOption()
     pszKey = CPLSPrintf( "%s", (char*)key.toLocal8Bit().data() );
     CPLSetConfigOption( pszKey, pszVal );
 }
+
+//1
