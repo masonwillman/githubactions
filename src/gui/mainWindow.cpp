@@ -3625,4 +3625,4 @@ void mainWindow::SetConfigOption()
     CPLSetConfigOption( pszKey, pszVal );
 }
 
-//3
+//4
